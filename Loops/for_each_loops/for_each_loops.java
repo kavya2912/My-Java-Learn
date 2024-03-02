@@ -1,4 +1,4 @@
-package Loops;
+package Loops.for_each_loops;
 
 public class for_each_loops {
     public static void main(String[] args) {
